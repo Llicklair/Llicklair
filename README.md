@@ -68,3 +68,4 @@ It proposes exact trades in equities and crypto. The principle that comes before
 ## Contact
 
 📧 marcosreciosanchez@gmail.com · 🌐 [Portfolio](https://llicklair.github.io/) · 🌐 [AutomatizaCore](https://llicklair.github.io/Automatiza-Core_landing) · 📍 Valencia, Spain
+
